@@ -1,0 +1,15 @@
+* {
+	background-color: #55555555;
+	color: #f3f4f5;
+	font: "Roboto 20";
+}
+
+window {
+	fullscreen: true;
+//	transparency: "real";
+}
+
+mainbox {
+	background-color: #55555555;
+	padding: 35%;
+}
